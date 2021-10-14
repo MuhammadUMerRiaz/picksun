@@ -1,0 +1,17 @@
+.LoginBody {
+    background-color: #262626;
+    height:100%;
+}
+
+.btnRed {
+    background-color: #d4392ea9;
+    border: #d4392ea9;
+}
+
+.btnRed:hover {
+    background-color: #4BADE9;
+}
+
+.errorDiv {
+    color: #d4392ea9;
+}
